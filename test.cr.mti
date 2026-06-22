@@ -1,8 +1,0 @@
-C:/Users/pratyush/Downloads/zed_board/F/dense_layer1.sv {1 {vlog -work work -sv -stats=none C:/Users/pratyush/Downloads/zed_board/F/dense_layer1.sv
-Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
--- Compiling module dense_layer1
-
-Top level modules:
-	dense_layer1
-
-} {} {}}
